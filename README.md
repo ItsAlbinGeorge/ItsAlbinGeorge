@@ -8,7 +8,7 @@
 
 <div align="left">
 
-  -🌱 I’m currently learning **HTML, Django**
+  -🌱 I’m currently learning **HTML, Django & Machine Learning** 
 
   -👀 I’m interested in coding
 
