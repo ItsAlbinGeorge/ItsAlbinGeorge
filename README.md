@@ -3,7 +3,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Albin+George!;Welcome+to+my+Github+Profile;"/>
 </h1>
-<h3 align="center">A passionate Student Engineer from College of Engineering Munnar, Kerala</h3>
+<h3 align="center">A Software Engineer from College of Engineering Munnar, Kerala</h3>
 <img align="right" alt="emo" width="400" src="https://i0.wp.com/living.ai/wp-content/uploads/2021/04/emo.gif?fit=800,800&ssl=1">
 
 <div align="left">
