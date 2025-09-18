@@ -12,8 +12,6 @@
 
   -👀 I’m interested in coding
 
-  -🔭 I’m currently working on **Placement cell management system**
-
   -📫 How to reach me **albingeorgerky@gmail.com**
 </div>
 <h3 align="left">Connect with me:</h3>
